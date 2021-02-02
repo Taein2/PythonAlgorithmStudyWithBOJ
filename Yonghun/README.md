@@ -1,4 +1,4 @@
-## Python Algorithm Study
+# Python Algorithm Study
 
 ### 2월 2일
 
