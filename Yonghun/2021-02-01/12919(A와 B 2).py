@@ -10,7 +10,7 @@ def solve(text):
         return
 
     if text[0] == 'B':
-        tmp = text[1:]
+        tmp = text[1:] 
         solve(tmp[::-1])
         
     if text[-1] == 'A':

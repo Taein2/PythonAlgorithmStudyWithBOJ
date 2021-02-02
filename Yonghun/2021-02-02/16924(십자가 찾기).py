@@ -1,6 +1,6 @@
 # 시뮬레이션 & 구현
-dx = [1,0,-1,0]
-dy = [0,1,0,-1]
+dx = [1, 0, -1, 0]
+dy = [0, 1, 0, -1]
 
 n,m = map(int,input().split())
 array = [list(input()) for _ in range(n)]
@@ -29,10 +29,10 @@ for x in range(n):
                     ny = y + dy[k] * cross_length
                     check[nx][ny]  = True
 
-                answer.append((x + 1,y + 1,cross_length))
+                answer.append((x + 1, y + 1, cross_length))
                 cross_length += 1
 
-if len(answer) == 0 :
+if len(answer) == 0 : # 십자가가 없다.
     print(-1)
     exit()
 
@@ -44,4 +44,4 @@ for i in range(n):
 
 print(len(answer))
 for cross in answer:
-    print(cross[0],cross[1],cross[2])
+    print(cross[0], cross[1], cross[2])

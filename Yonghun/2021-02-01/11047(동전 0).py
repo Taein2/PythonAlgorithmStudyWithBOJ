@@ -9,12 +9,12 @@ for i in range(n) :
 
 
 coin_list.sort(reverse = True)
-count = 0
+count = 0 
 
 while 1 :
     if k == 0 :
         break
-    
+
     for coin in coin_list :
         if coin > k :
             continue

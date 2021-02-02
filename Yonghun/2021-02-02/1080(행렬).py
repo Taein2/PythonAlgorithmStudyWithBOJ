@@ -17,10 +17,10 @@ def check():
     return True
 
 cnt = 0
-for i in range(0, n-2):
-    for j in range(0, m-2):
+for i in range(0, n - 2):
+    for j in range(0, m - 2):
         if A[i][j] != B[i][j]:
-            change(i,j)
+            change(i, j)
             cnt += 1
 
 if check():
