@@ -1,3 +1,4 @@
+# DP
 n = int(input())
 
 D = [[0, 0, 0] for _ in range(n)]
