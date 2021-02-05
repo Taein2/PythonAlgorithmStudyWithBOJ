@@ -2,7 +2,7 @@
 n = int(input())
 
 meeting = [list(map(int,input().split())) for _ in range(n)]
-meeting.sort(key = lambda x : (x[1], x[0]))
+meeting.sort(key = lambda x : (x[1], x[0])) # 끝나는 시간 먼저 정렬하고, 시작하는 시간 정렬하기.
 
 cnt = 0
 end_time = 0
