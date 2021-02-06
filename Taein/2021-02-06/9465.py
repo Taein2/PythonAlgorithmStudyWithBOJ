@@ -9,6 +9,4 @@ for _ in range(T):
     up = down = 0
     for i in range(N):
         up,down = max(up, down + lst1[i]),max(down, up + lst2[i])
-        print(up)
-        print(down)
     print(max(up, down))
