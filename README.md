@@ -1,6 +1,6 @@
 # PythonAlgorithmStudyWithBOJ
 
-<span style="color:yellow"> Written By Taein, Minjae, Yonghun</span>
+Written By Taein, Minjae, Yonghun
 
 ## 2021년 2월
 **일**|**월**|**화**|**수**|**목**|**금**|**토**
