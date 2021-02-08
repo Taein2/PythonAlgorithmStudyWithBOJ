@@ -1,16 +1,21 @@
 for _ in range(int(input())):
-    m, n, x, y= [int(i)+1 for i in input().split()]
-    a, b= 1 ,1
-    cnt=1
-    while a<m-1 or b<n-1:
-        #print(a, b)
-        if a==x and b==y:
-            print(cnt-1)
-            exit()
-        cnt+=1
-        a+=1
-        b+=1
-        a, b= max(a%m,1), max(b%n,1)
-        
+    m, n, x, y= map(int, input().split())
+    x-=1
+    y-=1
+    if m>n:
+        m, n= n, m
+        x, y= y, x
 
-    print(-1)
+    cnt=x+1
+    a= x
+    flag= True
+    for _ in range(40000+1):
+        if a==y:
+            flag=False
+            print(cnt)
+            break
+        a= (a+n-(n-m))%n
+        cnt+=m
+
+    if flag:
+        print(-1)
