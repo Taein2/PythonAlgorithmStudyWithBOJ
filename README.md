@@ -7,9 +7,7 @@
 ------|------|------|------|------|------|------
 [1. 10610(30) : 그리디](https://www.acmicpc.net/problem/10610)
 [2. 11047(동전 0) : 그리디](https://www.acmicpc.net/problem/11047)
-[3. 12919(A와 B 2) : 그리디](https://www.acmicpc.net/problem/12919)
-|
-[1. 1080(행렬) : 그리디](https://www.acmicpc.net/problem/1080)
+[3. 12919(A와 B 2) : 그리디](https://www.acmicpc.net/problem/12919)|[1. 1080(행렬) : 그리디](https://www.acmicpc.net/problem/1080)
 [2. 16924(십자가 찾기) : BF](https://www.acmicpc.net/problem/16924)
 [3. 2193(이친수) : DP](https://www.acmicpc.net/problem/2193)
 |
