@@ -5,19 +5,16 @@
 ### 2021년 2월
 02-01|02-02|02-03|02-04|02-05|02-06|02-07
 ------|------|------|------|------|------|------
-[1. 10610(30) : 그리디](https://www.acmicpc.net/problem/10610)
-[2. 11047(동전 0) : 그리디](https://www.acmicpc.net/problem/11047)
-[3. 12919(A와 B 2) : 그리디](https://www.acmicpc.net/problem/12919)|[1. 1080(행렬) : 그리디](https://www.acmicpc.net/problem/1080)
-[2. 16924(십자가 찾기) : BF](https://www.acmicpc.net/problem/16924)
-[3. 2193(이친수) : DP](https://www.acmicpc.net/problem/2193)
-|
-[1. 1149(RGB 거리) : DP](https://www.acmicpc.net/problem/1149)
-[2. 16922(로마 숫자 만들기) : BF](https://www.acmicpc.net/problem/16922)
-[3. 1783(병든 나이트) : 그리디](https://www.acmicpc.net/problem/1783)
-|
-[1. 1309(동물원) : DP](https://www.acmicpc.net/problem/1309)
-[2. 16937(두 스티커) : BF](https://www.acmicpc.net/problem/16937)
-[3. 1931(회의실 배정) : 그리디](https://www.acmicpc.net/problem/1931)
+[1. 10610(30) : 그리디](https://www.acmicpc.net/problem/10610)|[1. 1080(행렬) : 그리디](https://www.acmicpc.net/problem/1080)|[1. 1149(RGB 거리) : DP](https://www.acmicpc.net/problem/1149)|[1. 1309(동물원) : DP](https://www.acmicpc.net/problem/1309)
+[2. 11047(동전 0) : 그리디](https://www.acmicpc.net/problem/11047)|[2. 16924(십자가 찾기) : BF](https://www.acmicpc.net/problem/16924)|[2. 16922(로마 숫자 만들기) : BF](https://www.acmicpc.net/problem/16922)|[2. 16937(두 스티커) : BF](https://www.acmicpc.net/problem/16937)
+[3. 12919(A와 B 2) : 그리디](https://www.acmicpc.net/problem/12919)|[3. 2193(이친수) : DP](https://www.acmicpc.net/problem/2193)|
+[3. 1783(병든 나이트) : 그리디](https://www.acmicpc.net/problem/1783)|[3. 1931(회의실 배정) : 그리디](https://www.acmicpc.net/problem/1931)
+
+
+
+
+
+
 |
 [1. 1463(1로 만들기) : DP](https://www.acmicpc.net/problem/1463)
 [2. 1541(잃어버린 괄호) : 그리디](https://www.acmicpc.net/problem/1541)
