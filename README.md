@@ -15,13 +15,13 @@
 ||[12971(숫자 놀이)](https://www.acmicpc.net/problem/12971)
 ||[2981(검문)](https://www.acmicpc.net/problem/2981)
 
-
+```mermaid
 pie
     title Pie Chart
     "Dogs" : 386
     "Cats" : 85
     "Rats" : 150 
-    
+```
 ### 2021-02-01
 - [10610(30) : 그리디](https://www.acmicpc.net/problem/10610) 
 - [11047(동전 0) : 그리디](https://www.acmicpc.net/problem/11047) 
