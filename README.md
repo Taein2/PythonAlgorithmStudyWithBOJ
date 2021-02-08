@@ -16,8 +16,8 @@
 ||[5. 2981(검문) : Math](https://www.acmicpc.net/problem/2981)
 
 ### 2021-02-01
- [1. 10610(30) : 그리디](https://www.acmicpc.net/problem/10610) 
- [2. 11047(동전 0) : 그리디](https://www.acmicpc.net/problem/11047) 
+- [1. 10610(30) : 그리디](https://www.acmicpc.net/problem/10610) 
+- [2. 11047(동전 0) : 그리디](https://www.acmicpc.net/problem/11047) 
  [3. 12919(A와 B 2) : 그리디](https://www.acmicpc.net/problem/12919)
 
 ### 2021-02-02
