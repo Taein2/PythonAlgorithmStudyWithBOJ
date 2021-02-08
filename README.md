@@ -52,7 +52,7 @@
 
 ### 2021-02-08
  [1. 1182(부분수열의 합) : BF-재귀](https://www.acmicpc.net/problem/1182)
- [2. 1699(제곱수의 합) : DP(https://www.acmicpc.net/problem/1699)
+ [2. 1699(제곱수의 합) : DP](https://www.acmicpc.net/problem/1699)
  [3. 9012(괄호) : 스택](https://www.acmicpc.net/problem/9012)
  [4. 12971(숫자 놀이) : Math](https://www.acmicpc.net/problem/12971)
  [5. 2981(검문) : Math](https://www.acmicpc.net/problem/2981)
