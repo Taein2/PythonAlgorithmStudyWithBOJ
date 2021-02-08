@@ -2,20 +2,21 @@
 
  Written By Taein, Minjae, Yonghun
 
-### 2021-02-01
- [1. 10610(30) : 그리디](https://www.acmicpc.net/problem/10610){: target="_blank"}
- [2. 11047(동전 0) : 그리디](https://www.acmicpc.net/problem/11047){: target="_blank"}
- [3. 12919(A와 B 2) : 그리디](https://www.acmicpc.net/problem/12919){: target="_blank"}
- 
-### 2021-02-02
- [1. 1080(행렬) : 그리디](https://www.acmicpc.net/problem/1080){:target="_blank"}
- [2. 16924(십자가 찾기) : BF](https://www.acmicpc.net/problem/16924){:target="_blank"}
- [3. 2193(이친수) : DP](https://www.acmicpc.net/problem/2193){:target="_blank"}
-
+### 2021년 2월
+## 02-01|02-02|02-03|02-04|02-05|02-06
+   -----|-----|-----|-----|-----|-----
+ [1. 10610(30) : 그리디](https://www.acmicpc.net/problem/10610)
+ [2. 11047(동전 0) : 그리디](https://www.acmicpc.net/problem/11047)
+ [3. 12919(A와 B 2) : 그리디](https://www.acmicpc.net/problem/12919)
+ |
+ [1. 1080(행렬) : 그리디](https://www.acmicpc.net/problem/1080)
+ [2. 16924(십자가 찾기) : BF](https://www.acmicpc.net/problem/16924)
+ [3. 2193(이친수) : DP](https://www.acmicpc.net/problem/2193)
+|
 ### 2021-02-03
- [1. 1149(RGB 거리) : DP](https://www.acmicpc.net/problem/1149){:target="_blank"}
- [2. 16922(로마 숫자 만들기) : BF](https://www.acmicpc.net/problem/16922){:target="_blank"}
- [3. 1783(병든 나이트) : 그리디](https://www.acmicpc.net/problem/1783){:target="_blank"}
+ [1. 1149(RGB 거리) : DP](https://www.acmicpc.net/problem/1149)
+ [2. 16922(로마 숫자 만들기) : BF](https://www.acmicpc.net/problem/16922)
+ [3. 1783(병든 나이트) : 그리디](https://www.acmicpc.net/problem/1783)
 
 ### 2021-02-04
  1. 1309(동물원) : DP
