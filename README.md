@@ -1,5 +1,7 @@
 # PythonAlgorithmStudyWithBOJ
-## Written By Taein, Minjae, Yonghun
+
+ Written By Taein, Minjae, Yonghun
+
 ### 2021-02-01
  1. 10610(30)
  2. 11047(동전 0)
