@@ -20,7 +20,7 @@ def dfs(cnt, s):
         else:
             max_num = s
         return
-    for i in range(10): 
+    for i in range(10) : 
         if check[i] == False:
             if cnt == 0 or possible(s[-1], str(i), opr[cnt - 1]):
                 check[i] = True
