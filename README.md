@@ -3,7 +3,7 @@
  Written By Taein, Minjae, Yonghun
 
 ### 2021년 2월
-<span style="color:red">***일***</span>|**02-01**|**02-02**|**02-03**|**02-04**|**02-05**|**02-06**
+<mark style='background-color: #ffdce0'>***일***</mark>|**02-01**|**02-02**|**02-03**|**02-04**|**02-05**|**02-06**
 |------|------|------|------|------|------|------
 ~~01-31~~|**02-01**|**02-02**|**02-03**|**02-04**|**02-05**|**02-06**
 ||[10610(30)](https://www.acmicpc.net/problem/10610)|[1080(행렬)](https://www.acmicpc.net/problem/1080)|[1149(RGB 거리)](https://www.acmicpc.net/problem/1149)|[1309(동물원)](https://www.acmicpc.net/problem/1309)|[1463(1로 만들기)](https://www.acmicpc.net/problem/1463)|[1476(날짜 계산)](https://www.acmicpc.net/problem/1476)
