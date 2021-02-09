@@ -16,7 +16,6 @@ def check(bracket) :
     else :
         return True
 
-
 for _ in range(T) :
     bracket = list(input())
     answer = check(bracket)
