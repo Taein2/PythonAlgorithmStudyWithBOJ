@@ -69,4 +69,4 @@ Written By Taein, Minjae, Yonghun
 - [카드 구매하기 : DP](https://www.acmicpc.net/problem/11052)
 - [1, 2, 3 더하기 5 : DP](https://www.acmicpc.net/problem/15990)
 - [2xn 타일링 2 : DP](https://www.acmicpc.net/problem/11727)
-- [퇴사 : BF](https://www.acmicpc.net/problem/14501)
+- [퇴사 : DP](https://www.acmicpc.net/problem/14501)
