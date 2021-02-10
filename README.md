@@ -44,16 +44,16 @@ Written By Taein, Minjae, Yonghun
 
 ### 2021-02-06
 - [1476(날짜 계산) : BF](https://www.acmicpc.net/problem/1476)
-- [6603(로또) : BF-순열](https://www.acmicpc.net/problem/6603)
+- [6603(로또) : BF](https://www.acmicpc.net/problem/6603)
 - [9465(스티커) : DP](https://www.acmicpc.net/problem/9465)
 
 ### 2021-02-07
 - [11656(접미사 배열) : String](https://www.acmicpc.net/problem/11656)
-- [2529(부등호) : BF-순열](https://www.acmicpc.net/problem/2529)
+- [2529(부등호) : BF](https://www.acmicpc.net/problem/2529)
 - [6064(카잉 달력) : BF](https://www.acmicpc.net/problem/6064)
 
 ### 2021-02-08
-- [1182(부분수열의 합) : BF-재귀](https://www.acmicpc.net/problem/1182)
+- [1182(부분수열의 합) : BF](https://www.acmicpc.net/problem/1182)
 - [1699(제곱수의 합) : DP](https://www.acmicpc.net/problem/1699)
 - [9012(괄호) : 스택](https://www.acmicpc.net/problem/9012)
 - [12971(숫자 놀이) : Math](https://www.acmicpc.net/problem/12971)
