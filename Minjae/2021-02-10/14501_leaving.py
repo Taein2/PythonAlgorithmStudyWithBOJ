@@ -9,3 +9,5 @@ for i in range(1, n+2):
     if i+L[i][0]<=n+1:
         dp[i+L[i][0]]= max(dp[i+L[i][0]], dp[i]+L[i][1])
 print(dp[n+1])
+
+## modified
