@@ -1,15 +1,15 @@
 def zeroClick(state):
-    count=1
-    state[0]=int(not state[0])
+    count = 1
+    state[0] = int(not state[0])
     state[1] = int(not state[1])
-    for i in range(1,n):
-        if(state[i-1]!=result[i-1]):
-            count+=1
-            state[i-1]=int(not state[i-1])
-            state[i]=int(not state[i])
-            if(i!=n-1):
-                state[i+1]=int(not state[i+1])
-    if(state==result):
+    for i in range(1, n):
+        if(state[i-1] != result[i-1]):
+            count += 1
+            state[i - 1] = int(not state[i - 1])
+            state[i] = int(not state[i])
+            if(i != n-1) :
+                state[i + 1] = int(not state[i + 1])
+    if(state == result):
         return count
     else:
         return -1
@@ -17,12 +17,12 @@ def zeroClick(state):
 def zeroNoClick(state):
     count = 0
     for i in range(1,n):
-        if(state[i-1] != result[i-1]):
-            count+=1
-            state[i-1]=int(not state[i-1])
-            state[i]=int(not state[i])
-            if(i!=n-1):
-                state[i+1]=int(not state[i+1])
+        if(state[i - 1] != result[i - 1]):
+            count += 1
+            state[i - 1] = int(not state[i-1])
+            state[i] = int(not state[i])
+            if(i != n-1):
+                state[i + 1] = int(not state[i + 1])
     if(state == result):
         return count
     else:
