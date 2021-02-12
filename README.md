@@ -10,10 +10,10 @@ Written By Taein, Minjae, Yonghun
 ||[11047(동전 0)](https://www.acmicpc.net/problem/11047)|[16924(십자가 찾기)](https://www.acmicpc.net/problem/16924)|[16922(로마 숫자 만들기)](https://www.acmicpc.net/problem/16922)|[16937(두 스티커)](https://www.acmicpc.net/problem/16937)|[1541(잃어버린 괄호)](https://www.acmicpc.net/problem/1541)|[6603(로또)](https://www.acmicpc.net/problem/6603)
 ||[12919(A와 B 2)](https://www.acmicpc.net/problem/12919)|[2193(이친수)](https://www.acmicpc.net/problem/2193)|[1783(병든 나이트)](https://www.acmicpc.net/problem/1783)|[1931(회의실 배정)](https://www.acmicpc.net/problem/1931)|[9095(1,2,3 더하기)](https://www.acmicpc.net/problem/9095)|[9465(스티커)](https://www.acmicpc.net/problem/9465)
 **02-07**|**02-08**|**02-09**|**02-10**|**02-11**
-[11656(접미사 배열)](https://www.acmicpc.net/problem/11656)|[1182(부분수열의 합)](https://www.acmicpc.net/problem/1182)|[전구와 스위치](https://www.acmicpc.net/problem/2138)|[카드 구매하기](https://www.acmicpc.net/problem/11052)|[카드 구매하기 2](https://www.acmicpc.net/problem/16194)
-[2529(부등호)](https://www.acmicpc.net/problem/2529)|[1699(제곱수의 합)](https://www.acmicpc.net/problem/1699)|[ATM](https://www.acmicpc.net/problem/11399)|[1, 2, 3 더하기 5](https://www.acmicpc.net/problem/15990)|[차량 번호판 1](https://www.acmicpc.net/problem/16968)
-[6064(카잉 달력)](https://www.acmicpc.net/problem/6064)|[9012(괄호)](https://www.acmicpc.net/problem/9012)|[2xn 타일링](https://www.acmicpc.net/problem/11726)|[2xn 타일링 2](https://www.acmicpc.net/problem/11727)|[한윤정이 이탈리아에 가서](https://www.acmicpc.net/problem/2422)
-||[12971(숫자 놀이)](https://www.acmicpc.net/problem/12971)|[1, 2, 3 더하기 4](https://www.acmicpc.net/problem/15989)|[퇴사](https://www.acmicpc.net/problem/14501)|[퇴사 2](https://www.acmicpc.net/problem/15486)
+[11656(접미사 배열)](https://www.acmicpc.net/problem/11656)|[1182(부분수열의 합)](https://www.acmicpc.net/problem/1182)|[전구와 스위치](https://www.acmicpc.net/problem/2138)|[11052(카드 구매하기)](https://www.acmicpc.net/problem/11052)|[카드 구매하기 2](https://www.acmicpc.net/problem/16194)
+[2529(부등호)](https://www.acmicpc.net/problem/2529)|[1699(제곱수의 합)](https://www.acmicpc.net/problem/1699)|[ATM](https://www.acmicpc.net/problem/11399)|[15990(1, 2, 3 더하기 5)](https://www.acmicpc.net/problem/15990)|[차량 번호판 1](https://www.acmicpc.net/problem/16968)
+[6064(카잉 달력)](https://www.acmicpc.net/problem/6064)|[9012(괄호)](https://www.acmicpc.net/problem/9012)|[2xn 타일링](https://www.acmicpc.net/problem/11726)|[11727(2xn 타일링 2)](https://www.acmicpc.net/problem/11727)|[한윤정이 이탈리아에 가서](https://www.acmicpc.net/problem/2422)
+||[12971(숫자 놀이)](https://www.acmicpc.net/problem/12971)|[1, 2, 3 더하기 4](https://www.acmicpc.net/problem/15989)|[14501(퇴사)](https://www.acmicpc.net/problem/14501)|[퇴사 2](https://www.acmicpc.net/problem/15486)
 ||[2981(검문)](https://www.acmicpc.net/problem/2981)
 
 
@@ -66,10 +66,10 @@ Written By Taein, Minjae, Yonghun
 - [1, 2, 3 더하기 4 : DP](https://www.acmicpc.net/problem/15989)
 
 ### 2021-02-10
-- [카드 구매하기 : DP](https://www.acmicpc.net/problem/11052)
-- [1, 2, 3 더하기 5 : DP](https://www.acmicpc.net/problem/15990)
-- [2xn 타일링 2 : DP](https://www.acmicpc.net/problem/11727)
-- [퇴사 : DP](https://www.acmicpc.net/problem/14501)
+- [11052(카드 구매하기) : DP](https://www.acmicpc.net/problem/11052)
+- [15990(1, 2, 3 더하기 5) : DP](https://www.acmicpc.net/problem/15990)
+- [11727(2xn 타일링 2) : DP](https://www.acmicpc.net/problem/11727)
+- [14501(퇴사) : DP](https://www.acmicpc.net/problem/14501)
 
 ### 2021-02-11
 - [카드 구매하기 2 : DP](https://www.acmicpc.net/problem/16194)
