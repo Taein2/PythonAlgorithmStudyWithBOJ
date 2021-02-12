@@ -12,8 +12,8 @@ Written By Taein, Minjae, Yonghun
 **02-07**|**02-08**|**02-09**|**02-10**|**02-11**|**02-12**
 [11656(접미사 배열)](https://www.acmicpc.net/problem/11656)|[1182(부분수열의 합)](https://www.acmicpc.net/problem/1182)|[2138(전구와 스위치)](https://www.acmicpc.net/problem/2138)|[11052(카드 구매하기)](https://www.acmicpc.net/problem/11052)|[16194(카드 구매하기2)](https://www.acmicpc.net/problem/16194)|[10430(나머지)](https://www.acmicpc.net/problem/10430)
 [2529(부등호)](https://www.acmicpc.net/problem/2529)|[1699(제곱수의 합)](https://www.acmicpc.net/problem/1699)|[11399(ATM)](https://www.acmicpc.net/problem/11399)|[15990(1, 2, 3 더하기 5)](https://www.acmicpc.net/problem/15990)|[16968(차량 번호판1)](https://www.acmicpc.net/problem/16968)|[16917(양념 반 후라이드 반)](https://www.acmicpc.net/problem/16917)
-[6064(카잉 달력)](https://www.acmicpc.net/problem/6064)|[9012(괄호)](https://www.acmicpc.net/problem/9012)|[11726(2xn 타일링)](https://www.acmicpc.net/problem/11726)|[11727(2xn 타일링 2)](https://www.acmicpc.net/problem/11727)|[2422(한윤정이 이탈리아에 가서)](https://www.acmicpc.net/problem/2422)|[2609(최대공약수와 최소공배수)](https://www.acmicpc.net/problem/2609)|[3019(테트리스)](https://www.acmicpc.net/problem/3019)
-||[12971(숫자 놀이)](https://www.acmicpc.net/problem/12971)|[15989(1,2,3 더하기 4)](https://www.acmicpc.net/problem/15989)|[14501(퇴사)](https://www.acmicpc.net/problem/14501)|[15486(퇴사 2)](https://www.acmicpc.net/problem/15486)
+[6064(카잉 달력)](https://www.acmicpc.net/problem/6064)|[9012(괄호)](https://www.acmicpc.net/problem/9012)|[11726(2xn 타일링)](https://www.acmicpc.net/problem/11726)|[11727(2xn 타일링 2)](https://www.acmicpc.net/problem/11727)|[2422(한윤정이 이탈리아에 가서)](https://www.acmicpc.net/problem/2422)|[2609(최대공약수와 최소공배수)](https://www.acmicpc.net/problem/2609)
+||[12971(숫자 놀이)](https://www.acmicpc.net/problem/12971)|[15989(1,2,3 더하기 4)](https://www.acmicpc.net/problem/15989)|[14501(퇴사)](https://www.acmicpc.net/problem/14501)|[15486(퇴사 2)](https://www.acmicpc.net/problem/15486)|[3019(테트리스)](https://www.acmicpc.net/problem/3019)
 ||[2981(검문)](https://www.acmicpc.net/problem/2981)
 
 
