@@ -8,7 +8,7 @@ for i in range(n) :
     matrix.append(list(map(int, input().strip().split())))
 
 
-gab = 999999999
+gab = 1e9
 
 team = [i for i in range(n)]
 
