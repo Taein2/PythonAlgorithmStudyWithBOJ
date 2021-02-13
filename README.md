@@ -21,34 +21,47 @@ Written By Taein, Minjae, Yonghun
 [10872(팩토리얼)](https://www.acmicpc.net/problem/10872)
 [1377(버블 소트)](https://www.acmicpc.net/problem/1377)
 
+<br><br>
 <details>
 <summary>2021-02-01</summary>
 <div markdown="1">
-[10610(30) : 그리디](https://www.acmicpc.net/problem/10610)<br>
-[11047(동전 0) : 그리디](https://www.acmicpc.net/problem/11047)<br> 
-[12919(A와 B 2) : 그리디](https://www.acmicpc.net/problem/12919)<br>
+- [10610(30) : 그리디](https://www.acmicpc.net/problem/10610)<br>
+- [11047(동전 0) : 그리디](https://www.acmicpc.net/problem/11047)<br> 
+- [12919(A와 B 2) : 그리디](https://www.acmicpc.net/problem/12919)<br>
 </div>
 </details>
-
-### 2021-02-02
-- [1080(행렬) : 그리디](https://www.acmicpc.net/problem/1080)
-- [16924(십자가 찾기) : BF](https://www.acmicpc.net/problem/16924)
-- [2193(이친수) : DP](https://www.acmicpc.net/problem/2193)
- 
-### 2021-02-03
-- [1149(RGB 거리) : DP](https://www.acmicpc.net/problem/1149)
-- [16922(로마 숫자 만들기) : BF](https://www.acmicpc.net/problem/16922)
-- [1783(병든 나이트) : 그리디](https://www.acmicpc.net/problem/1783)
-
-### 2021-02-04
-- [1309(동물원) : DP](https://www.acmicpc.net/problem/1309)
-- [16937(두 스티커) : BF](https://www.acmicpc.net/problem/16937)
-- [1931(회의실 배정) : 그리디](https://www.acmicpc.net/problem/1931)
- 
-### 2021-02-05
-- [1463(1로 만들기) : DP](https://www.acmicpc.net/problem/1463)
-- [1541(잃어버린 괄호) : 그리디](https://www.acmicpc.net/problem/1541)
-- [9095(1,2,3 더하기) : DP](https://www.acmicpc.net/problem/9095)
+<details>
+<summary>2021-02-02</summary>
+<div markdown="1">
+- [1080(행렬) : 그리디](https://www.acmicpc.net/problem/1080)<br>
+- [16924(십자가 찾기) : BF](https://www.acmicpc.net/problem/16924)<br>
+- [2193(이친수) : DP](https://www.acmicpc.net/problem/2193)<br>
+</div>
+</details>
+<details>
+<summary>2021-02-03</summary>
+<div markdown="1">
+- [1149(RGB 거리) : DP](https://www.acmicpc.net/problem/1149)<br>
+- [16922(로마 숫자 만들기) : BF](https://www.acmicpc.net/problem/16922)<br>
+- [1783(병든 나이트) : 그리디](https://www.acmicpc.net/problem/1783)<br>
+</div>
+</details>
+<details>
+<summary>2021-02-04</summary>
+<div markdown="1">
+- [1309(동물원) : DP](https://www.acmicpc.net/problem/1309)<br>
+- [16937(두 스티커) : BF](https://www.acmicpc.net/problem/16937)<br>
+- [1931(회의실 배정) : 그리디](https://www.acmicpc.net/problem/1931)<br>
+</div>
+</details>
+<details>
+<summary>2021-02-05</summary>
+<div markdown="1">
+- [1463(1로 만들기) : DP](https://www.acmicpc.net/problem/1463)<br>
+- [1541(잃어버린 괄호) : 그리디](https://www.acmicpc.net/problem/1541)<br>
+- [9095(1,2,3 더하기) : DP](https://www.acmicpc.net/problem/9095)<br>
+ </div>
+ </details>
 
 ### 2021-02-06
 - [1476(날짜 계산) : BF](https://www.acmicpc.net/problem/1476)
