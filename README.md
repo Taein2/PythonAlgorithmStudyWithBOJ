@@ -22,7 +22,7 @@ Written By Taein, Minjae, Yonghun
 [1377(버블 소트)](https://www.acmicpc.net/problem/1377)
 
 <details>
-<summary> ### 2021-02-01 </summary>
+<summary>2021-02-01</summary>
  <div markdown="1">
 - [10610(30) : 그리디](https://www.acmicpc.net/problem/10610) 
 - [11047(동전 0) : 그리디](https://www.acmicpc.net/problem/11047) 
