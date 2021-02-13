@@ -21,10 +21,14 @@ Written By Taein, Minjae, Yonghun
 [10872(팩토리얼)](https://www.acmicpc.net/problem/10872)
 [1377(버블 소트)](https://www.acmicpc.net/problem/1377)
 
-### 2021-02-01
-- [10610(30) : 그리디](https://www.acmicpc.net/problem/10610) 
-- [11047(동전 0) : 그리디](https://www.acmicpc.net/problem/11047) 
-- [12919(A와 B 2) : 그리디](https://www.acmicpc.net/problem/12919)
+<details>
+<summary>2021-02-01</summary>
+<div markdown="1">
+[10610(30) : 그리디](https://www.acmicpc.net/problem/10610)<br>
+[11047(동전 0) : 그리디](https://www.acmicpc.net/problem/11047)<br> 
+[12919(A와 B 2) : 그리디](https://www.acmicpc.net/problem/12919)<br>
+</div>
+</details>
 
 ### 2021-02-02
 - [1080(행렬) : 그리디](https://www.acmicpc.net/problem/1080)
