@@ -8,7 +8,7 @@ for i in range(n) :
     matrix.append(list(map(int, input().strip().split())))
 
 
-gab = 999999999
+gab = 1e9
 
 team = [i for i in range(n)]
 
@@ -20,7 +20,7 @@ for team1 in tt :
 
     for x, y in list(itertools.combinations(team1, 2)) :
         team1_score += matrix[x][y] + matrix[y][x]
-        
+
     for x, y in list(itertools.combinations(team2, 2)) :
         team2_score += matrix[x][y] + matrix[y][x]
 
