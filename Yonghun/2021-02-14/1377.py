@@ -1,8 +1,9 @@
 import sys 
+input = sys.stdin.readline
 N = int(input()) 
 nums = [] 
 for i in range(N): 
-    num = int(sys.stdin.readline()) 
+    num = int(input())
     nums.append((num, i)) 
     
 sorted_nums = sorted(nums) 
