@@ -7,4 +7,4 @@ A_array.extend(B_array)
 A_array.sort()
 
 for i in A_array :
-    print(i , end =" ")
+    print(i , end = " ")
