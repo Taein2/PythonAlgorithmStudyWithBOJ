@@ -15,6 +15,7 @@ Written By Taein, Minjae, Yonghun
 [6064(카잉 달력)](https://www.acmicpc.net/problem/6064)|[9012(괄호)](https://www.acmicpc.net/problem/9012)|[11726(2xn 타일링)](https://www.acmicpc.net/problem/11726)|[11727(2xn 타일링 2)](https://www.acmicpc.net/problem/11727)|[2422(한윤정이 이탈리아에 가서)](https://www.acmicpc.net/problem/2422)|[2609(최대공약수와 최소공배수)](https://www.acmicpc.net/problem/2609)|[11728(배열 합치기)](https://www.acmicpc.net/problem/11728)
 ||[12971(숫자 놀이)](https://www.acmicpc.net/problem/12971)|[15989(1,2,3 더하기 4)](https://www.acmicpc.net/problem/15989)|[14501(퇴사)](https://www.acmicpc.net/problem/14501)|[15486(퇴사 2)](https://www.acmicpc.net/problem/15486)|[3019(테트리스)](https://www.acmicpc.net/problem/3019)|[11053(가장 긴 증가하는 부분 수열)](https://www.acmicpc.net/problem/11053)
 ||[2981(검문)](https://www.acmicpc.net/problem/2981)
+
 **02-14**
 [6588(골드바흐의 추측)](https://www.acmicpc.net/problem/6588)
 [16943(숫자 재배치)](https://www.acmicpc.net/problem/16943)
@@ -99,3 +100,9 @@ Written By Taein, Minjae, Yonghun
 - [16943(숫자 재배치) : BF](https://www.acmicpc.net/problem/16943)
 - [10872(팩토리얼) : Math](https://www.acmicpc.net/problem/10872)
 - [1377(버블 소트) : Sort](https://www.acmicpc.net/problem/1377)
+
+### 2021-02-15
+- [1373(2진수 8진수) : Math](https://www.acmicpc.net/problem/1373)
+- [1912(연속합) : DP](https://www.acmicpc.net/problem/1912)
+- [1972](https://www.acmicpc.net/problem/1972)
+- [10819(차이를 최대로) : BF](https://www.acmicpc.net/problem/10819)
