@@ -1,7 +1,7 @@
 # PythonAlgorithmStudyWithBOJ
 
 Written By Taein, Minjae, Yonghun
-d
+
 ## 2021년 2월
 **일**|**월**|**화**|**수**|**목**|**금**|**토**
 |------|------|------|------|------|------|------
