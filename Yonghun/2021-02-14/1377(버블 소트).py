@@ -5,7 +5,7 @@ nums = []
 for i in range(N): 
     num = int(input())
     nums.append((num, i)) 
-    
+
 sorted_nums = sorted(nums) 
 
 answer = 0 

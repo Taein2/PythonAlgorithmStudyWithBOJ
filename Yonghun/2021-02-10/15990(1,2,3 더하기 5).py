@@ -15,4 +15,3 @@ for i in range(4, 100001):
 for _ in range(T):
     n = int(input())
     print((D[n][1] + D[n][2] + D[n][3]) % 1000000009)
-    

@@ -13,7 +13,6 @@ B = [
 ]
 
 ans = 0
-
 # c = 6 , p(블록 번호) = 5
 for block in B[P - 1]: #  [0,0,0], [0,1], [1,0], [1,0,1]
     for i in range(0, C + 1 - len(block)):

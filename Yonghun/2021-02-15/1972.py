@@ -9,6 +9,7 @@ while True:
         for j in range(len(s)-i):
             word = s[j] + s[j+i]
             word_list.append(word)
+            
         if len(word_list) != len(set(word_list)):
             Flag = False
             break

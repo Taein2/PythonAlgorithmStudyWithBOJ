@@ -8,7 +8,6 @@ matrix = []
 for i in range(n) :
     matrix.append(list(map(int,input().split())))
 
-
 team = [i for i in range(n)]
 tt = list(cb(team, n // 2))
 
@@ -30,7 +29,5 @@ for team1 in tt :
         team2_score += matrix[x][y] + matrix[y][x]
 
     gab = min(gab,abs(team1_score - team2_score))
-
-
 
 print(gab)
