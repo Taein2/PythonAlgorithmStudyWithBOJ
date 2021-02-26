@@ -4,7 +4,7 @@ from itertools import permutations
 input = sys.stdin.readline
 
 def check(s):
-    val = sum(s[0:3])#기준
+    val = sum(s[0 : 3]) # 기준
 
     #가로 검사
     for i in range(0, 9, 3):
@@ -29,7 +29,8 @@ def calc(s):
     result = 0
     for i in range(3):
         for j in range(3):
-            result += abs(array[i][j] - s[i*3 + j])
+            result += abs(array[i][j] - s[i*3 + j]) # 중요!
+            # print(s[i*3 + j])
     return result
 
 array = []
