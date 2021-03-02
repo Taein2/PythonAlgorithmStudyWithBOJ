@@ -15,3 +15,4 @@ if a+b>2*c:
 else:
     ans= a*x+ b*y
 print(ans)
+
