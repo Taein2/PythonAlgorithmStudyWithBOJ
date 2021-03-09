@@ -3,7 +3,7 @@
 n = int(input())
 array = list(map(int,input().split()))
 
-D = [i for i in array] # D 초기화
+D = [i for i in array] # D 배열을 array 값으로 초기화시켜야 한다.
 #print(D)
 
 D[0] = array[0]
