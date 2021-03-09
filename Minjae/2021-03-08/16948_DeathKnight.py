@@ -1,8 +1,8 @@
-input()
+n= int(input())
 a, b, x, y=map(int, input().split())
-
-ans=0
-dist1= abs(a-x)
+if a>=n or b>=n or x>=n or y>=n or a<0 or b<0 or x<0 or y<0:
+    print(-1)
+    exit()
 
 if a==x and b!=y:
     if abs(b-y)%2:
@@ -26,25 +26,30 @@ else:
         a, x= x,a
         b, y= y,b
     cnt=0
-    while a!=x:
-        #print(a, b, x, y)
+    if abs(a-x)%2:
+        print(-1)
+        exit()
+
+    while a!=x and b!=y:
         b+=1
-        if x<y:
+        if a>x:
             a-=2
         else:
             a+=2
         cnt+=1
 
-        if b>y:
+    if b!=y and a==x:
+        if abs(b-y)%2:
             print(-1)
-            exit()
-    #print(cnt)
-    #print(a, b, x, y)
-    if b>y:
-        print(-1)
-        exit()
-    if abs(b-y)%2:
-        print(-1)
-        exit()
-    cnt+=abs(b-y)//2
-    print(cnt)
+            exit()   
+        cnt+=abs(b-y)//2
+        print(cnt)
+    
+    elif a!=x and b==y:
+        if abs(a-x)%4:
+            print(-1)
+            exit()   
+        cnt+=abs(a-x)//2
+        print(cnt)
+    else:
+        print(cnt)
