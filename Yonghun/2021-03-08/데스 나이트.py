@@ -12,13 +12,12 @@ chk = [[0] * n for _ in range(n)]
 def bfs(x, y):
     q = deque()
     q.append([x, y])
-    chk[x][y] = 0
 
     while q:
         x, y = q.popleft()
     
         if x == r2 and y == c2:
-            return chk[r2][c2]
+            return chk[x][y]
 
         for i in range(6):
             nx = x + dx[i]
@@ -27,6 +26,7 @@ def bfs(x, y):
                 if chk[nx][ny] == 0:
                     chk[nx][ny] = chk[x][y] + 1
                     q.append([nx, ny])
+                    
     return -1
 
 res = bfs(r1, c1)

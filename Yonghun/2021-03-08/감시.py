@@ -27,6 +27,7 @@ answer = 1e9
 
 def check_map(array, dirs, x, y) : # maps에 # 표시하는 함수
     array = deepcopy(array)
+
     for looking in dirs :
         if looking == 0 : # 왼쪽, x 고정
             for dy in range(y, -1, -1) :
@@ -36,6 +37,7 @@ def check_map(array, dirs, x, y) : # maps에 # 표시하는 함수
                     continue
                 else :
                     array[x][dy] = '#'
+
         elif looking == 1 : # 위쪽, y 고정
             for dx in range(x, -1, -1) :
                 if array[dx][y] == 6 :
@@ -44,6 +46,7 @@ def check_map(array, dirs, x, y) : # maps에 # 표시하는 함수
                     continue
                 else :
                     array[dx][y] = '#'
+
         elif looking == 2 : # 오른쪽, x 고정
             for dy in range(y, len(array[0])) :
                 if array[x][dy] == 6 :
@@ -52,6 +55,7 @@ def check_map(array, dirs, x, y) : # maps에 # 표시하는 함수
                     continue
                 else :
                     array[x][dy] = '#'
+
         elif looking == 3 : # 아래쪽, y 고정
             for dx in range(x, len(array)) :
                 if array[dx][y] == 6 :
@@ -67,21 +71,21 @@ def check_map(array, dirs, x, y) : # maps에 # 표시하는 함수
 def detecting(array, cctvs, idx) :
     global answer
 
-    if idx == len(cctvs) :
+    if idx == len(cctvs) : # 모든 cctv 탐색 끝
         cnt = 0
         for x in range(len(array)) :
-            cnt += array[x].count(0)
-        
+            cnt += array[x].count(0) # 사각지대(0)의 개수 세기
+         
         answer = min(answer, cnt)
-        return
-    
+        return 
+
     cctv = cctvs[idx]
     x, y, kind = cctv
 
-    if kind == 1 :
+    if kind == 1 : # cctv의 종류
         for i in range(4) :
             next_array = check_map(array, [i], x, y)
-            detecting(next_array, cctvs, idx + 1)
+            detecting(next_array, cctvs, idx + 1) # cctvs에서 다음 cctv의 경우를 탐색하기 위해 idx+1하여 준다.
 
     if kind == 2 :
         for i in [(0,2), (1,3)] :
