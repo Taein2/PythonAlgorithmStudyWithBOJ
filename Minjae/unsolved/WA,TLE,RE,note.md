@@ -8,6 +8,7 @@
 ##### 16987_crackingEgg
 ##### 3085_CandyGame
 ##### 2343_Guitar_Lesson
+##### 11059_KrillBoard
 
 #### TLE
 ##### 2004_nmOfzeroInPermu
@@ -23,3 +24,4 @@
 ##### 2606_Virus: Union-Find
 ##### 2343_Guitar_Lesson: Binary Search
 ##### 2110_Routing: BS
+##### 16948_DeathKnight: Greedy
