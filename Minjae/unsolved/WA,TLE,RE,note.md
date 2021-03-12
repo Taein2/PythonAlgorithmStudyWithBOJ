@@ -5,7 +5,6 @@
 ##### 1202_JewelHeist
 ##### 15661_LinkAndStart
 ##### 2109_Supermarket
-##### 16987_crackingEgg
 ##### 3085_CandyGame
 ##### 2343_Guitar_Lesson
 ##### 11059_KrillBoard
@@ -25,3 +24,5 @@
 ##### 2343_Guitar_Lesson: Binary Search
 ##### 2110_Routing: BS
 ##### 16948_DeathKnight: Greedy
+##### 16987_crackingEgg: Backtracking, copying problems
+##### 17089_ThreeFriends: indegree
