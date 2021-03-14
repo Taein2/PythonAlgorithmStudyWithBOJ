@@ -20,12 +20,14 @@ for i in range(len(word)) :
             charDic[word[i][j]] += pow(10, len(word[i]) - j - 1)
 
 
-# value 값을 기준으로 정렬
+# value 값을 기준으로 내림차순 정렬
 sort_list = sorted(charDic.items(), key=lambda x: x[1], reverse=True)
 print(sort_list)
 
 
 result, num = 0, 9
+
+#정렬된 값이 앞에 있을수록 자릿수가 크다는 거니까 9부터 곱해주면서 결과에 더해주기
 for i in range(len(sort_list)):
     result += num * sort_list[i][1]
     num -= 1
