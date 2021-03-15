@@ -5,6 +5,7 @@ dy = [1, 2, 2, 1, -1, -2, -2, -1]
 def bfs(x, y, end_x, end_y) :
     q = deque()
     q.append((x, y))
+
     while q :
         x, y = q.popleft()
 
@@ -14,6 +15,7 @@ def bfs(x, y, end_x, end_y) :
         for i in range(8) :
             nx = x + dx[i]
             ny = y + dy[i]
+            
             if 0 <= nx < n and 0 <= ny < n :
                 if array[nx][ny] == -1 :
                     array[nx][ny] = array[x][y] + 1
