@@ -18,8 +18,9 @@ while (start <= end) :
     for i in array :
         total += (i // mid)
         
-    if total < n :
-        end = mid - 1
+    if total < n : # 만든 랜선의 개수가 목표치보다 작다
+        end = mid - 1 # mid를 줄여야한다.
+        
     else :
         start = mid + 1
 
